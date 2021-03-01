@@ -1,6 +1,8 @@
 # Overview: Bikesharing
 The purpose of this analysis is to create data representations for Citi Bike data collected August 2019. The charts and graphs presented in this repository will allow investors to make informed decisions regarding the Citi Bike service. 
 
+Access Link to Tableu Public: [Tableu Public Link : NYC Citibikes Dashboard](https://public.tableau.com/profile/patrick4196#!/vizhome/bikesharing_challenge_16142447733850/NYCCitiBikeAnalysis-August2019)
+
 # Results
 
 The graphs represented in this analysis are focused towards gender breakdown, starting and ending locations. 
